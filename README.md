@@ -1,6 +1,6 @@
 # Dataset-for-Shanghai-Sports-Facilities-Detection
 ### *Dataset used in a competition*
-Sincere appreciation to the original contributor, ***Mr. Liu Chang*** once worked in the ***Key Laboratory of Geographic Information Science, Ministry of Education, East China Normal University, Shanghai, People’s Republic of China***.  
+Sincere appreciation to the original contributor, ***Mr. Liu Chang*** who once worked in the ***Key Laboratory of Geographic Information Science, Ministry of Education, East China Normal University, Shanghai, People’s Republic of China***.  
 Our further plan is to enrich the dataset into a benchmark set of outdoor sports facilities in the Yangtze River Delta region.
 
 ### *Model choices*

@@ -1,0 +1,1 @@
+[Download](https://github.com/CatManJr/YOLOv11-Sports-Facilities/releases/download/v1.0.0/dataset.7z) and move the whole dataset to the root dir (same with the jupyter notebook).

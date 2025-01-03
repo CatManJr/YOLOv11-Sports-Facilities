@@ -52,17 +52,19 @@ Sincere appreciation and best wishes to the writers, 胡凯旋 & SSTato!
 In release v1.0.0, we provide a new version of over dataset for YOLOv11-obb, in such a structure:
 ```
 dataset/
-├── images
-│   ├── train
-│   └── val
+├── images/
+│   ├── train/
+│   │   └── 1024px*1024px images
+│   └── val/
+│       └── 1024px*1024px images
 └── labels/
-    ├── train_original
+    ├── train_original/
     │   └── ...(DOTA labels)
-    ├── val_original
+    ├── val_original/
     │   └── ...(DOTA labels)
-    ├── train
+    ├── train/
     │   └── ...(YOLO-obb labels)
-    └── val
+    └── val/
         └── ...(YOLO-obb labels)
 
 ```

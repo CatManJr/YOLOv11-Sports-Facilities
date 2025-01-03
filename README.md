@@ -1,7 +1,7 @@
 # YOLOv11-Sports-Facilities
 ***Geo Data(shapefile) Mining using YOLOv11-obb + SAHI***
 
-*Updated Jan 3, 2025*
+*v1.0.0 Updated Jan 3, 2025*
 *****
 ### *Model*
 In the updated repository, we implemented the latest Ultralytics YOLOv11-obb to learn our outdoor sports facilities dataset.
@@ -83,4 +83,4 @@ In `yolov11-obb.ipynb` we provide the whole pipeline from `transform dota labels
 
 The only requirements are `PyTorch`, `Ultralytics`, `SAHI`, and a `GPU` with no less than `8GB of CUDA memory`. 
 *******
-*Updated Jan 3 2025*
+*v1.0.0 Updated Jan 3 2025*

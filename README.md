@@ -1,5 +1,6 @@
 # YOLOv11-Sports-Facilities
 *Updated Jan 3 2025*
+*Geo Data Mining using YOLOv11-obb + SAHI*
 *****
 ### *Model*
 In the updated repository, we implemented the latest Ultralytics YOLOv11-obb to learn our outdoor sports facilities dataset.
